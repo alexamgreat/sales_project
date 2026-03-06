@@ -1,0 +1,29 @@
+invoice_id,Date ,Product Name ,Category,Qty ,Unit Price ,TotalAmount,PaymentType
+1001,01-01-2025,Milk ,Dairy,10,45,450,Cash
+1002,01-01-2025,Bread,Bakery,15,30,450,Cash
+1003,02-01-2025,Eggs,Dairy,20,5,100,Card
+1004,02-01-2025,Shampoo ,Personal Care,5,120,600,Card
+1005,03-01-2025,Rice ,Grains,8,250,2000,Cash
+1006,03-01-2025,Milk,Dairy,,45,450,Cash
+1007,04-01-2025,Bread ,Bakery,18,30,540,Cash
+1008,04-01-2025,Soap,Personal Care,12,25,300,Card
+1009,05-01-2025,Eggs,Dairy,25,5,125,Cash
+1010,05-01-2025,Rice,Grains,6,250,1500,Card
+1011,06-01-2025,Milk,Dairy,14,45,630,Cash
+1012,06-01-2025,Bread,Bakery,20,30,600,Cash
+1013,07-01-2025,Shampoo,Personal Care,4,120,480,Card
+1014,07-01-2025,Rice ,Grains,7,250,1750,Cash
+1015,08-01-2025,Eggs,Dairy,30,5,150,Card
+1016,08-01-2025,Soap ,Personal Care,15,25,375,Cash
+1017,09-01-2025,Milk,Dairy,13,45,585,Cash
+1018,09-01-2025,Bread ,Bakery,17,30,510,Card
+1019,10-01-2025,Rice,Grains,9,250,2250,Cash
+1020,10-01-2025,Eggs ,Dairy,28,5,140,Cash
+1021,11-01-2025,Milk,Dairy,11,45,495,Card
+1022,11-01-2025,Bread,Bakery,22,30,660,Cash
+1023,12-01-2025,Soap,Personal Care,10,25,250,Card
+1024,12-01-2025,Rice ,Grains,5,250,1250,Cash
+1025,13-01-2025,Milk ,Dairy,16,45,720,Cash
+1026,13-01-2025,Eggs,Dairy,24,5,120,Card
+1027,14-01-2025,Bread,Bakery,19,30,570,Cash
+1028,14-01-2025,Shampoo ,Personal Care,6,120,720,Card
